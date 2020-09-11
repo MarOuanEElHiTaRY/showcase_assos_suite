@@ -26,6 +26,8 @@ Author URI: http://xpeedstudio.com
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+
+   
 html,
 body {
     /*background:url(../images/bodybg.png) repayet-y;*/
@@ -39,7 +41,17 @@ body {
     margin-right: 0;
     font-weight: 400;
     width:100%;
-    font-family: 'Ubuntu', sans-serif;
+    src: local("../fonts/Ubuntu-Regular.ttf"), url("https://fonts.googleapis.com/css2?family=Ubuntu&display=swap") format("truetype");
+    font-display: swap;
+}
+
+#mylogo {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #353854;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20%;
+    font-size: 30px;
 }
 
 /*------------------------------------------------------------------*/
