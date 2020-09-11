@@ -45,6 +45,15 @@ body {
     font-display: swap;
 }
 
+#mylogo {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #353854;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20%;
+    font-size: 30px;
+}
+
 /*------------------------------------------------------------------*/
 /*   IE10 in Windows 8 and Windows Phone 8 Bug fix
 /*-----------------------------------------------------------------*/
