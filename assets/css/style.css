@@ -54,6 +54,14 @@ body {
     font-size: 30px;
 }
 
+#logoFooter{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #FFFFFF;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20%;
+    font-size: 25px;
+}
 /*------------------------------------------------------------------*/
 /*   IE10 in Windows 8 and Windows Phone 8 Bug fix
 /*-----------------------------------------------------------------*/
