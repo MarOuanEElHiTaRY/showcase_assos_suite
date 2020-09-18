@@ -11,12 +11,12 @@ Twitter : https://twitter.com/AssoSuite
 Linkedin : https://www.linkedin.com/in/asso-suite-ba28741a9/  
 Instagram : https://www.instagram.com/assosuite/  
 Gmail : assosuite@gmail.com  
-Developers : e.marouane93@gmail.com and bordjahfaycal@gmail.com
+Developers : e.marouane93@gmail.com and tolstoyfafa@gmail.com
 
 ## Authors
 
 * **EL HITARY Marouane** - [MarOuanEElHiTaRY](https://github.com/MarOuanEElHiTaRY)
-* **BORDJAH Fayçal** - [faycalBordjah](https://github.com/faycalBordjah)
+* **BORDJAH Fayçal** - [faycalBordjah](https://github.com/tolstoyfafa)
 
 ## Contributing
 
