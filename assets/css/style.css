@@ -373,7 +373,7 @@ ul{
     height: 100%;
     position: absolute;
     left:0;
-    top:0;
+    top:70px;
 }
 
 .no-padding {
@@ -1253,7 +1253,7 @@ Download Section style
     width:70%;
 }
 .download_item img.app_right{
-    position: relative;
+    position: inherit;
     bottom:-95px;
 }
 .download_app{
