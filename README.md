@@ -11,7 +11,7 @@ Twitter : https://twitter.com/AssoSuite
 Linkedin : https://www.linkedin.com/in/asso-suite-ba28741a9/  
 Instagram : https://www.instagram.com/assosuite/  
 Gmail : assosuite@gmail.com  
-Developers : e.marouane93@gmail.com and tolstoyfafa@gmail.com
+Developers : elhitarymarouane@gmail.com and tolstoyfafa@gmail.com
 
 ## Authors
 
